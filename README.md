@@ -1,3 +1,3 @@
 # Anti-Diffusion
 
-Coming soon after camera ready version released
+Coming soon after camera ready version being released
