@@ -19,7 +19,6 @@ Experiments demonstrate that our Anti-Diffusion achieves superior defense perfor
 
 - [x] Release core code of Anti-Diffusion (at dir Defense)
 - [x] Release preview version of Defense-Edit (at dir Datasets/Defense-Edit)
-- [ ] Full demo with tuning and editing methods 
 - [ ] ...
 
 ## Environment setup
